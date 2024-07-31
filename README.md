@@ -1,16 +1,19 @@
-## Hi there 👋
+# 🖤 Bem-vindo ao meu refúgio digital 🖤
 
-<!--
-**arifborges/arifborges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou Ariane, uma desenvolvedora com uma paixão por mistérios, códigos obscuros e a beleza da escuridão. Mergulho fundo em projetos que desafiam o convencional e exploram o lado mais sombrio da tecnologia.
 
-Here are some ideas to get you started:
+## 🦇 Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **🎸 Hobbies**: Jogar hackslash, ler literatura gótica e explorar trilhas sonoras sombrias. 🎶
+- **🔮 Fascínios**: Culturas antigas, arquitetura gótica e a estética do horror clássico. 
+- **🛠️ Tecnologias**: Fascinada por Design Grafico.
+
+
+## 🕯️ Conecte-se Comigo
+
+- [📷 Instagram]([link-para-seu-instagram](https://www.instagram.com/ari.anii.ari/))
+- [📧 Email](Arianenosferatu@gmail.com)
+
+---
+
+> "Na escuridão, encontramos a verdadeira luz." 🌑
