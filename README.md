@@ -11,7 +11,7 @@ Eu sou Ariane, uma desenvolvedora com uma paixão por mistérios, códigos obscu
 
 ## 🕯️ Conecte-se Comigo
 
-- [📷 Instagram]([link-para-seu-instagram](https://www.instagram.com/ari.anii.ari/))
+- [📷 Instagram](https://www.instagram.com/ari.anii.ari/)
 - [📧 Email](Arianenosferatu@gmail.com)
 
 ---
