@@ -16,4 +16,4 @@ Eu sou Ariane, uma desenvolvedora com uma paixão por mistérios, códigos obscu
 
 ---
 
-> "Na escuridão, encontramos a verdadeira luz." 🌑
+> "O desespero tem suas próprias formas de trazer a calma." 🌑
