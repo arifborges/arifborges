@@ -7,7 +7,7 @@ Eu sou Ariane, uma desenvolvedora com uma paixão por mistérios, códigos obscu
 
 - **🎸 Hobbies**: Jogar hackslash, ler literatura gótica e explorar trilhas sonoras sombrias. 🎶  
 - **🔮 Fascínios**: Culturas antigas, arquitetura gótica e a estética do horror clássico.  
-- **🛠️ Tecnologias**: Fascinada por Design Gráfico e Desenvolvimento Web (HTML).  
+- **🛠️ Tecnologias**: Fascinada por Design Gráfico e por HTML e Design Gráfico..  
 
 ## 🕯️ Conecte-se Comigo
 
